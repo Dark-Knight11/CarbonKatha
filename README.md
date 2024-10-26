@@ -50,7 +50,6 @@ Carbon Katha introduces a unique investment-based offset feature. Users can inve
 
 ### Other Technologies
 - **LLMs (Large Language Models)- Gemini 1.5 Pro(Multimodal)**
-- **RAG (Retrieval Augmented Generation) Agents**
 
 ## Repository Links
 
