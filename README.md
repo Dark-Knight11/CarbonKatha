@@ -1,11 +1,13 @@
-# Carbon Katha
+# Carbon Katha - Mumbai Hacks'24
 
 ## Track
 Finance
 
-## Overview
+## Problem Statement 
+Temperatures globally are on the rise. Can AI use our transaction data to intelligently track and then suggest ways to reduce our carbon footprint?
 
-Carbon Katha is a sustainability-focused application aimed at helping individuals reduce their carbon footprint through smarter lifestyle choices. By providing personalized suggestions in the domains of food, fashion, technology, and transport, as well as innovative investment opportunities, Carbon Katha empowers users to make environmentally friendly decisions while potentially benefiting financially.
+## Overview
+Carbon Katha is a sustainability-focused application aimed at helping individuals reduce their carbon footprint through smarter lifestyle choices and informed financial decisions. By providing personalized suggestions in the domains of food, fashion, technology, and transport, Carbon Katha enables users to assess the environmental impact of their daily transactions. The app fetches transaction data from bank accounts and credit cards to calculate carbon emissions, offering innovative investment opportunities that allow users to grow their finances while contributing to carbon reduction initiatives. With Carbon Katha, users can make environmentally friendly decisions that also support their financial wellbeing.
 
 ## Table of Contents
 - [Features](#features)
