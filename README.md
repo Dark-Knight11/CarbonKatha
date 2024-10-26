@@ -22,7 +22,7 @@
 
 ## Figma Design File
 
-- [Figma Design File]()
+- [Figma Design File](https://www.figma.com/design/75EkpaBxG83RYmf2Xx0WvM/Solution-challenge?t=wVZmIClXAXAglMno-0)
 
 ## Contributors
 
