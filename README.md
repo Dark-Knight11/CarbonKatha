@@ -10,7 +10,6 @@ Carbon Katha is a sustainability-focused application aimed at helping individual
 - [Investment-Based Offset](#investment-based-offset)
 - [Website Features](#website-features)
 - [Technologies Used](#tech-stack)
-- [Getting Started](#getting-started)
 - [Contributors](#contributors)
 
 ## Features
@@ -52,7 +51,8 @@ Carbon Katha introduces a unique investment-based offset feature. Users can inve
 
 ## Repository Links
 
-- [Frontend Repository]()
+- [Flutter Repository]()
+- [Frontend Repository](https://github.com/jutikapatil16/carbonkatha)
 - [Backend Repository](https://github.com/Dark-Knight11/carbon-glow)
 
 ## Figma Design File
