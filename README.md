@@ -1,5 +1,8 @@
 # Carbon Katha
 
+## Track
+Finance
+
 ## Overview
 
 Carbon Katha is a sustainability-focused application aimed at helping individuals reduce their carbon footprint through smarter lifestyle choices. By providing personalized suggestions in the domains of food, fashion, technology, and transport, as well as innovative investment opportunities, Carbon Katha empowers users to make environmentally friendly decisions while potentially benefiting financially.
