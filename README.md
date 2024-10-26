@@ -51,7 +51,7 @@ Carbon Katha introduces a unique investment-based offset feature. Users can inve
 
 ## Repository Links
 
-- [Flutter Repository]()
+- [Flutter Repository](https://github.com/nachiket-gohil/carbonkatha-flutter)
 - [Frontend Repository](https://github.com/jutikapatil16/carbonkatha)
 - [Backend Repository](https://github.com/Dark-Knight11/carbon-glow)
 
