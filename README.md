@@ -6,13 +6,12 @@ Carbon Katha is a sustainability-focused application aimed at helping individual
 
 ## Table of Contents
 - [Features](#features)
-- [App Functionality](#app-functionality)
+- [App Features](#app-features)
 - [Investment-Based Offset](#investment-based-offset)
 - [Website Features](#website-features)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#tech-stack)
 - [Getting Started](#getting-started)
 - [Contributors](#contributors)
-- [Contact Us](#contact-us)
 
 ## Features
 
